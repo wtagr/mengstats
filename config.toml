@@ -10,6 +10,7 @@ title = "mengstats"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://mengstats.netlify.com"
+
 disqusShortname = "https-mengstats-netlify-com"
 
 # Enter a copyright notice to display in the site footer.

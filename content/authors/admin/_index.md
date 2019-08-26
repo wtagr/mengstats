@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Regression Analysis, Financial \& Economic Statistics and programmable matter.
 education:
   courses:
   - course: PhD in Statistics

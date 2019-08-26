@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Demos"
+title = ""
 subtitle = ""
 
 [design]
@@ -30,14 +30,14 @@ subtitle = ""
   
   # Background image.
   image = "headers/turkey-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["130px", "0", "130px", "0"]
+  padding = ["320px", "0", "0px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -45,12 +45,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
-
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
-
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+April, 2019 | Istanbul, Turkey

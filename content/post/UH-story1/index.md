@@ -3,7 +3,7 @@ title:  "海法大学轶事之一"
 subtitle: "计算机系属于哪个学部?"
 summary: 计算机系属于哪个学部?
 featured: true
-date: "2019-07-12"
+date: "2019-07-12T00:00:00Z"
 diagram: true
 markup: mmark
 math: true

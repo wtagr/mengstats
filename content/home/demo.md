@@ -30,14 +30,14 @@ subtitle = ""
   
   # Background image.
   image = "headers/turkey-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["350px", "0", "0px", "0"]
+  padding = ["370px", "0", "0px", "0"]
 
 [advanced]
  # Custom CSS. 

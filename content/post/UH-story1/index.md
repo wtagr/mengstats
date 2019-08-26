@@ -1,6 +1,8 @@
 ---
 title:  "海法大学轶事之一"
 subtitle: "计算机系属于哪个学部?"
+summary: 计算机系属于哪个学部?
+featured: true
 date: "2019-07-12"
 diagram: true
 markup: mmark
@@ -11,6 +13,10 @@ categories:
 - Anecdote
 tags:
 - UH
+image:
+  placement: 3
+  focal_point: "Center"
+  preview_only: false
 ---
 
 从去年接到以色列海法大学博士后工作offer，就开始了对[海法大学官网](https://www.haifa.ac.il/index.php/en/)的探索。由于offer来自于[统计系](https://stat.hevra.haifa.ac.il/index.php/en/)，当然首先是查找系的主页。凭经验，统计系无非属于[自然科学学部](http://sciences.haifa.ac.il/sciwp/wordpress/)(Faculty of Natural Sciences)，或是以生物统计系的名义属于医学部。但海法大学自然科学学部并无统计系，且无医学部，这就令人生疑：难道是设立了独立的统计研究中心或是属于数学系的下属研究室(Section)。逐学部依次检索，在[社会科学学部](https://www.hevra.haifa.ac.il/index.php/en/)(Faculty of Social Sciences)下发现了统计系：当然，这结果情理之中。但有趣的是，发现计算机系也在列其中——这就意料之外、情理之外了。为何海法大学计算机系属于社会科学学部而非理学部？这样的问题就埋下了。

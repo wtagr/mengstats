@@ -11,12 +11,12 @@
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 25
 
  [[main]]
   name = "R package"
   url = "#projects"
-  weight = 25
+  weight = 20
 
 [[main]]
   name = "Publications"

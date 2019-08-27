@@ -19,6 +19,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "90%"
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "MatLab"
+  description = "80%"
   
 [[feature]]
   icon = "chart-line"
@@ -27,9 +33,15 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+  description = "50%"
+  
+[[feature]]
+  icon = "keyboard"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "LaTeX"
+  description = "90%"
 
 +++

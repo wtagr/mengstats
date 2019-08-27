@@ -17,7 +17,13 @@
       <link>/project/dvdtest/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/dvdtest/</guid>
-      <description></description>
+      <description>&lt;p&gt;Difference between Varying Distributions Test.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;require(devtools)
+install_github(&amp;quot;wtagr/DVDtest&amp;quot;, force = TRUE)
+library(DVDtest)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
   </channel>

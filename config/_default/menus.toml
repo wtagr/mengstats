@@ -14,7 +14,7 @@
   weight = 20
 
  [[main]]
-  name = "R packages"
+  name = "R package"
   url = "#projects"
   weight = 25
 

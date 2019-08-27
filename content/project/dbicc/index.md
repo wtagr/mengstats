@@ -1,11 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
 external_link: ""
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/mengstats
 image:
   caption: 
   focal_point: Smart
@@ -15,3 +10,10 @@ tags:
 title: dbICC
 url_code: https://github.com/wtagr/dbicc/blob/master/R/dbicc-package.R
 ---
+Distance-based Intraclass Correlation Coeffcient.
+
+```
+library(devtools)
+install_github("wtagr/dbicc",force = TRUE)
+library(dbicc)
+```

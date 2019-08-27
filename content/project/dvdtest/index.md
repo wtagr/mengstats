@@ -19,6 +19,11 @@ publication_short:
 publication_types:
 - "1"
 ---
+Difference between Varying Distributions Test.
 
-
+```
+require(devtools)
+install_github("wtagr/DVDtest", force = TRUE)
+library(DVDtest)
+```
 

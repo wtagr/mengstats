@@ -344,5 +344,21 @@ $$&lt;/p&gt;
 </description>
     </item>
     
+    <item>
+      <title>dbICC</title>
+      <link>/project/dbicc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/dbicc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DVDtest</title>
+      <link>/project/dvdtest/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/dvdtest/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

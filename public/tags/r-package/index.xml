@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | mengstats</title>
-    <link>/tags/demo/</link>
-      <atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Demo</description>
+    <title>R package | mengstats</title>
+    <link>/tags/r-package/</link>
+      <atom:link href="/tags/r-package/index.xml" rel="self" type="application/rss+xml" />
+    <description>R package</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019©</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>R package</title>
+      <link>/tags/r-package/</link>
     </image>
     
     <item>
-      <title>External Project</title>
+      <title>dbICC</title>
       <link>/project/dbicc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/dbicc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DVDtest</title>
+      <link>/project/dvdtest/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/dvdtest/</guid>
       <description></description>
     </item>
     

@@ -25,11 +25,12 @@ date_format = "Jan 2006"
   date_start = "2018-10-03"
   date_end = ""
   description = """
-  Responsibilities include:
+  Current projects include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Evaluation and measures on data reliability
+  * Hypothesis test of difference on distributions
+  * Analysis and modeling on fMRI, fNIRs and behavioral data
+  * Functional data analysis
   """
 
 [[experience]]
@@ -39,7 +40,7 @@ date_format = "Jan 2006"
   location = "Granada, Spain"
   date_start = "2016-10-01"
   date_end = "2017-08-30"
-  description = """??"""
+  description = """Risk measures"""
 
 [[experience]]
   title = "Joint Ph.D. Trainee"
@@ -48,7 +49,7 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2014-10-01"
   date_end = "2015-10-30"
-  description = """??"""
+  description = """Functional data analysis & yield curves"""
   
 [[experience]]
   title = "Research Assistance"
@@ -57,5 +58,5 @@ date_format = "Jan 2006"
   location = "Chengdu, China"
   date_start = "2011-10-01"
   date_end = "2018-06-20"
-  description = """??"""
+  description = """ """
 +++

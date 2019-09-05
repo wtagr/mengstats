@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019©</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019©</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Divergence-Based Risk Measures: A Discussion on Sensitivities and Extensions</title>
+      <link>/publication/2019-xu-entropy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varying coefficient functional autoregressive model with application to the US treasuries</title>
+      <link>/publication/2017-xu-jmva/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-xu-jmva/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

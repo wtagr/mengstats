@@ -42,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Meng Xu is a postdoc fellow at the Department of Statistics, University of Haifa, Israel.
+Welcome to my website. I am a postdoc fellow in the Department of Statistics at the University of Haifa in Israel.
 
 Temp. 

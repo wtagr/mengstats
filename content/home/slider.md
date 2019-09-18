@@ -35,7 +35,15 @@ height = "500px"
   #cta_url = "https://sourcethemes.com/academic/"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
+[[item]]
+  title = ""
+  content = "April, 2019 | Western Wall, Jerusalem, Israel"
+  align = "left"
 
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/jeru-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  
 [[item]]
   title = ""
   content = "July, 2019 | Haifa, Israel"

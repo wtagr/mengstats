@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Current projects include:
   
   * Evaluation and measures on data reliability
-  * Hypothesis test of difference on distributions
+  * (Multiple) Hypothesis test of difference on distributions
   * Analysis and modeling on fMRI, fNIRs and behavioral data
   * Functional data analysis
   """

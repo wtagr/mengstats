@@ -68,10 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
-- (Contributed) *Generalized test-retest-reliability based on distances*. Annual Meeting of the **Israel Statistical Association**. Bar-Ilan University, Israel. June 6, 2019.
+- (Contributed) <span style="color:blue">*Generalized test-retest-reliability based on distances*</span>. Annual Meeting of the **Israel Statistical Association**. Bar-Ilan University, Israel. June 6, 2019.
 
-- (Contributed) *Divergence-based Risk Measures: A Discussion on the Sensitivities and Extensions*. Jerusalem Joint Statistical Event 2018: 10th Conference of the Eastern Mediterranean Region of the International Biometrics Society (**EMR -- IBS**). Jerusalem, Israel. Dec. 17 – 20, 2018
+- (Contributed) <span style="color:blue">*Divergence-based Risk Measures: A Discussion on the Sensitivities and Extensions*</span>. Jerusalem Joint Statistical Event 2018: 10th Conference of the Eastern Mediterranean Region of the International Biometrics Society (**EMR -- IBS**). Jerusalem, Israel. Dec. 17 – 20, 2018
 
-- (Contributed) *Divergence-based Risk Measures: A Discussion on the Sensitivities and Extensions*. **Joint Statistical Meetings**, Vancouver, Canada. Jul. 28 – Aug. 2, 2018
+- (Contributed) <span style="color:blue">*Divergence-based Risk Measures: A Discussion on the Sensitivities and Extensions*</span>. **Joint Statistical Meetings**, Vancouver, Canada. Jul. 28 – Aug. 2, 2018
 
-- (Poster) *Time-Varying Coefficient Functional Autoregressive Model and its application to U.S. Treasuries*. Asian Regional Section of the International Association for Statistical Computing **ARS-IASC** Conference. Singapore. Dec 17 – 19, 2015
+- (Poster) <span style="color:blue">*Time-Varying Coefficient Functional Autoregressive Model and its application to U.S. Treasuries*</span>. Asian Regional Section of the International Association for Statistical Computing **ARS-IASC** Conference. Singapore. Dec 17 – 19, 2015

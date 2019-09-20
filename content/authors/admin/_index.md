@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include Regression Analysis, Financial \& Economic Statistics and programmable matter.
+bio: "*Data matters as well as Model*"
 education:
   courses:
   - course: PhD in Statistics
@@ -16,8 +16,8 @@ education:
 email: "mxu@campus.haifa.ac.il"
 interests:
 - Functional Data Analysis
-- Non-parametrics
-- Financial Statistics
+- Semi/Non-parametrics
+- Financial/Bio-Statistics
 name: Meng Xu
 organizations:
 - name: University of Haifa, Israel

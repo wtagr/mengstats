@@ -17,6 +17,14 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
+  content = "Octobor, 2019 | London, UK"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/london-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+[[item]]
+  title = ""
   content = "April, 2019 | Istanbul, Turkey"
   align = "left"  # Choose `center`, `left`, or `right`.
 

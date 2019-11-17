@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/gallery/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>

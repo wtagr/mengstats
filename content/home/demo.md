@@ -47,5 +47,3 @@ subtitle = ""
  css_class = ""
 
 +++
-
-April, 2019 | Istanbul, Turkey

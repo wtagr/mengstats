@@ -17,7 +17,7 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = "Octobor, 2019 | London, UK"
+  content = "October, 2019 | London, UK"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.

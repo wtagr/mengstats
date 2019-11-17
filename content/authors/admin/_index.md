@@ -7,21 +7,15 @@ education:
   - course: PhD in Statistics
     institution: Sichuan University, China
     year: 2018
-  - course: Grad. Study in Finance
-    institution: Sichuan University, China
-    year: 2013
   - course: BSc in Mathematics
     institution: Sichuan University, China
     year: 2011
 email: "mxu@campus.haifa.ac.il"
-interests:
-- Functional Data Analysis
-- Semi/Non-parametrics
-- Financial/Bio-Statistics
+
 name: Meng Xu
 organizations:
 - name: University of Haifa, Israel
-  url: ""
+  url: "https://stat.hevra.haifa.ac.il/index.php/en/"
 role: Statistician | Postdoc
 social:
 - icon: envelope
@@ -44,4 +38,6 @@ user_groups:
 
 Welcome to my website. I am a postdoc fellow in the Department of Statistics at the University of Haifa in Israel.
 
-Temp. 
+Currently I am working on the projects including evaluation and measures on data reliability, hypothesis test of difference on distributions and analysis and modeling on fMRI, fNIRs and behavioral data.
+
+I am open to both industrial and academic opportunities.

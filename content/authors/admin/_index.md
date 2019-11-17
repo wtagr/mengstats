@@ -36,8 +36,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website. I am a postdoc fellow in the Department of Statistics at the University of Haifa (UH) in Israel.
+Welcome to my website. I am a postdoc fellow in the Department of Statistics at the University of Haifa (UH) in Israel, mentored by Prof. [Philip Tzvi Reiss](https://stat.hevra.haifa.ac.il/index.php/en/academic-staff-he/prof-philip-reiss).
 
-Currently I am working on the projects including evaluation and measures on data reliability, hypothesis test of difference on distributions and analysis and modeling on fMRI, fNIRs and behavioral data.
+Currently I am working on the field of biostatistics including evaluation and measures on data reliability, hypothesis test of difference on distributions and analysis and modeling on fMRI, fNIRs and behavioral data.
 
 I am open to both industrial and academic opportunities.

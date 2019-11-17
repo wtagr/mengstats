@@ -10,8 +10,8 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
-  weight = 25
+  url = "post/"
+  weight = 40
 
  [[main]]
   name = "R package"
@@ -19,7 +19,7 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
+  name = "Conf/Publications"
   url = "#talks"
   weight = 30
 

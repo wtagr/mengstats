@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | mengstats</title>
+    <link>/categories/r/</link>
+      <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>R</title>
+      <link>/categories/r/</link>
+    </image>
+    
+    <item>
+      <title>Presentation的究极利器</title>
+      <link>/post/uh-ucy/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/uh-ucy/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;/img/movie.gif&#34; alt=&#34;Brain Image&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

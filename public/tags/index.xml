@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>bivariate smoothing</title>
+      <title>Bivariate Smoothing</title>
       <link>/tags/bivariate-smoothing/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/bivariate-smoothing/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>covariance function</title>
+      <title>Covariance Function</title>
       <link>/tags/covariance-function/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/covariance-function/</guid>
@@ -37,7 +37,15 @@
     </item>
     
     <item>
-      <title>roughness penalty</title>
+      <title>Functional Data</title>
+      <link>/tags/functional-data/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roughness Penalty</title>
       <link>/tags/roughness-penalty/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/roughness-penalty/</guid>
@@ -73,14 +81,6 @@
       <link>/tags/autoregressive/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/tags/autoregressive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional Data</title>
-      <link>/tags/functional-data/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/functional-data/</guid>
       <description></description>
     </item>
     

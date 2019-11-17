@@ -16,9 +16,10 @@ publishDate: "2019-10-07T00:00:00Z"
 slides: 
 
 tags:
-- roughness penalty
-- bivariate smoothing
-- covariance function
+- Roughness Penalty
+- Bivariate Smoothing
+- Covariance Function
+- Functional Data
 
 title: "Tensor product splines and functional principal components"
 url_code: ""

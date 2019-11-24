@@ -4,27 +4,47 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/travel/</loc>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/turkey/</loc>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/uh-turkey/</loc>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +54,6 @@
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   

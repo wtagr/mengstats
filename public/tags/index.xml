@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 24 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Functional connectivity</title>
+      <link>/tags/functional-connectivity/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-connectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intraclass correlation coefficient</title>
+      <link>/tags/intraclass-correlation-coefficient/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/intraclass-correlation-coefficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spearman-Brown formula</title>
+      <link>/tags/spearman-brown-formula/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/spearman-brown-formula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test-retest reliability</title>
+      <link>/tags/test-retest-reliability/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/test-retest-reliability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Turkey</title>

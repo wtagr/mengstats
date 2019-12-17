@@ -45,6 +45,30 @@
     </item>
     
     <item>
+      <title>Functional Data</title>
+      <link>/tags/functional-data/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical tests</title>
+      <link>/tags/graphical-tests/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/graphical-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pointwise p-values</title>
+      <link>/tags/pointwise-p-values/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/pointwise-p-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Turkey</title>
       <link>/tags/turkey/</link>
       <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
@@ -73,14 +97,6 @@
       <link>/tags/covariance-function/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/covariance-function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional Data</title>
-      <link>/tags/functional-data/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/functional-data/</guid>
       <description></description>
     </item>
     

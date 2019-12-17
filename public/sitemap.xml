@@ -78,6 +78,21 @@
   </url>
   
   <url>
+    <loc>/tags/functional-data/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graphical-tests/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pointwise-p-values/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2019-11-24T00:00:00+00:00</lastmod>
   </url>
@@ -129,11 +144,6 @@
   
   <url>
     <loc>/tags/covariance-function/</loc>
-    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/functional-data/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   

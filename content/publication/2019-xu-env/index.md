@@ -18,9 +18,9 @@ slides:
 
 tags:
 - Functional connectivity
-- Intraclass correlation coefficient
-- Spearman-Brown formula
-- Test-retest reliability
+- Functional Data
+- Graphical tests
+- Pointwise p-values
 
 title: "Distribution-Free Pointwise Adjusted P-Values for Functional Hypotheses"
 url_code: ""

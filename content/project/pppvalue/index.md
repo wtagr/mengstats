@@ -23,7 +23,7 @@ R package for Pointwise adjusted Permutation P-values (PPPvalue). The current ve
 
 ```
 require(devtools)
-install_github("wtagr/DVDtest", force = TRUE)
-library(DVDtest)
+install_github("wtagr/pppvalue", force = TRUE)
+library(pppvalue)
 ```
 

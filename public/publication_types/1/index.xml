@@ -34,8 +34,8 @@ library(DVDtest)
       <description>&lt;p&gt;R package for Pointwise adjusted Permutation P-values (PPPvalue). The current version is made available for testing.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;require(devtools)
-install_github(&amp;quot;wtagr/DVDtest&amp;quot;, force = TRUE)
-library(DVDtest)
+install_github(&amp;quot;wtagr/pppvalue&amp;quot;, force = TRUE)
+library(pppvalue)
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>

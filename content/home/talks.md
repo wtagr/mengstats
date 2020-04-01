@@ -68,6 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
+- (Organizer) <span style="color:blue">*Topic Contributed session*</span>. **Joint Statistical Meeting**, Philadelphia, U.S.A, 2020*
+
+- (Pres.) <span style="color:blue">*Distribution-free pointwise adjusted p-values for functional hypotheses.*</span>. **IWFOS**, Brno, Czech. 2020*
+
 - (Pres.) <span style="color:blue">*Generalized reliability based on distances*</span>. **UH-UCY** (University of Cyprus) Workshop in Statistics, Haifa, Israel. Nov. 12, 2019.
 
 - (Contributed pres.) <span style="color:blue">*Generalized test-retest-reliability based on distances*</span>. Annual Meeting of the **Israel Statistical Association**. Bar-Ilan University, Israel. June 6, 2019.

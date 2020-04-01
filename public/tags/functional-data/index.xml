@@ -5,7 +5,7 @@
     <link>/tags/functional-data/</link>
       <atom:link href="/tags/functional-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Functional Data</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Functional Data</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Distribution-Free Pointwise Adjusted P-Values for Functional Hypotheses</title>
-      <link>/publication/2019-xu-env/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-xu-env/</guid>
+      <title>Tensor product splines and functional principal components</title>
+      <link>/publication/2019-xu-jspi/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-jspi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tensor product splines and functional principal components</title>
-      <link>/publication/2019-xu-jspi/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-xu-jspi/</guid>
+      <title>Distribution-Free Pointwise Adjusted P-Values for Functional Hypotheses</title>
+      <link>/publication/2019-xu-env/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-env/</guid>
       <description></description>
     </item>
     

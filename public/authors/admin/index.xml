@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>mengstats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>mengstats</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Tensor product splines and functional principal components</title>
+      <link>/publication/2019-xu-jspi/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-jspi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generalized reliability based on distances</title>
@@ -204,14 +212,6 @@
       <guid>/post/uh-ucy/</guid>
       <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;/img/movie.gif&#34; alt=&#34;Brain Image&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Tensor product splines and functional principal components</title>
-      <link>/publication/2019-xu-jspi/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-xu-jspi/</guid>
-      <description></description>
     </item>
     
     <item>

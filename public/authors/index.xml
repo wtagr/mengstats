@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Authors</title>
@@ -15,14 +15,22 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Welcome to my website. I am a postdoc fellow in the Department of Statistics at the University of Haifa (UH) in Israel, mentored by Prof. &lt;a href=&#34;https://stat.hevra.haifa.ac.il/index.php/en/academic-staff-he/prof-philip-reiss&#34; target=&#34;_blank&#34;&gt;Philip Tzvi Reiss&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Currently I am working on the field of biostatistics including evaluation and measures on data reliability, hypothesis test of difference on distributions and analysis and modeling on fMRI, fNIRs and behavioral data.&lt;/p&gt;
+&lt;p&gt;Currently I am working on the field of biostatistics including evaluation and measures on data reliability, hypothesis test of difference on distributions and analysis and modeling on Experience Sampling Method (ESM), fMRI, fNIRs and behavioral data.&lt;/p&gt;
 
 &lt;p&gt;I am open to both industrial and academic opportunities.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Philip Reiss</title>
+      <link>/authors/philip-reiss/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/philip-reiss/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -30,14 +38,6 @@
       <link>/authors/ivor-cribben/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ivor-cribben/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philip Reiss</title>
-      <link>/authors/philip-reiss/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/philip-reiss/</guid>
       <description></description>
     </item>
     

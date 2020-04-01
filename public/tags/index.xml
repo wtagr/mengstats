@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Bivariate Smoothing</title>
+      <link>/tags/bivariate-smoothing/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/bivariate-smoothing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariance Function</title>
+      <link>/tags/covariance-function/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/covariance-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Data</title>
+      <link>/tags/functional-data/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roughness Penalty</title>
+      <link>/tags/roughness-penalty/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/roughness-penalty/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Functional connectivity</title>
@@ -45,14 +77,6 @@
     </item>
     
     <item>
-      <title>Functional Data</title>
-      <link>/tags/functional-data/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/functional-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Graphical tests</title>
       <link>/tags/graphical-tests/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
@@ -81,30 +105,6 @@
       <link>/tags/uh/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/tags/uh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bivariate Smoothing</title>
-      <link>/tags/bivariate-smoothing/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/bivariate-smoothing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Covariance Function</title>
-      <link>/tags/covariance-function/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/covariance-function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roughness Penalty</title>
-      <link>/tags/roughness-penalty/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/roughness-penalty/</guid>
       <description></description>
     </item>
     

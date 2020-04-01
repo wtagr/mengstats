@@ -9,7 +9,7 @@ date: ""
 featured: false
 
 projects: []
-publication: '*Biometrics*, Major revision'
+publication: '*Biometrics*, invited revision'
 publication_short: ""
 publication_types:
 - "3"

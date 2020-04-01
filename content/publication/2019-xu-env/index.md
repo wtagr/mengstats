@@ -9,7 +9,7 @@ date: ""
 featured: false
 
 projects: []
-publication: '*IWFOS2020*, submitted'
+publication: '*IWFOS2020*, accepted'
 publication_short: ""
 publication_types:
 - "3"

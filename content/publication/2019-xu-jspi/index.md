@@ -13,7 +13,7 @@ publication: '*Journal of Statistical Planning and Inference*, 208, 1-12'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-09-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 slides: 
 
 tags:

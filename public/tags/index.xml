@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Bivariate Smoothing</title>
       <link>/tags/bivariate-smoothing/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/bivariate-smoothing/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Covariance Function</title>
       <link>/tags/covariance-function/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/covariance-function/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Functional Data</title>
       <link>/tags/functional-data/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/functional-data/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Roughness Penalty</title>
       <link>/tags/roughness-penalty/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/roughness-penalty/</guid>
       <description></description>
     </item>

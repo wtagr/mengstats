@@ -23,7 +23,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mengstats
+  link: https://twitter.com/mengstat
 - icon: github
   icon_pack: fab
   link: https://github.com/wtagr

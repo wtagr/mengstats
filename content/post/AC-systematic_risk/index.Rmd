@@ -53,8 +53,8 @@ theme_set(theme_dag())
 dagify(d~c,
        p~d,
        r~p,
-       r~d,
-       r~~c,
+       r~d+c,
+       
        labels = c("c"="Competition",
                   "d"="Diversification",
                   "p"="Performance",

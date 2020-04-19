@@ -5,12 +5,36 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Competitive Market</title>
+      <link>/tags/competitive-market/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/competitive-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversification</title>
+      <link>/tags/diversification/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/diversification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Risk</title>
+      <link>/tags/systematic-risk/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/systematic-risk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bivariate Smoothing</title>

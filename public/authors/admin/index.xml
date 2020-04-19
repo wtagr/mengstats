@@ -5,12 +5,56 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>mengstats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>mengstats</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Competition, diversification and systematic risk</title>
+      <link>/post/ac-systematic_risk/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/ac-systematic_risk/</guid>
+      <description>&lt;p&gt;&lt;p&gt;I have started to pay attention on the systematic measure of risk since the year of 2017, such as the theoretical paper &lt;span class=&#34;citation&#34;&gt;(Feinstein, Rudloff, and Weber 2017)&lt;/span&gt;, which may potentially explore the risk measure via integrating multiple departments. Owing to my supervisor and colleague, Jose Miguel and Jose Luis at the University of Granada, for briefly introducing their work about this, a popular idea was kept by myself that how exactly you measure the systematic/general risk for the entire company with multiple business. A naive thinking on this could be a weighted summation of all the risks of single businesses, but as our knowledge, it will go wired if we do not carefully consider the dependence/association across the multiple businesses, even if the weights are controlled by these dependence.&lt;/p&gt;
+&lt;p&gt;Then till this year 2020, the outbreak of COVID-19 affects all the aspects. Besides of the numerous lives lost, the depression of economics would come after that. At least in China, during the state-wide lock-down, it is easy to imagine that lands of small companies could not survive for this period. So do those in other countries and districts. Inspired by several Weibos (Sorry for my short memory, one of those could come from &lt;a href=&#34;https://www.weibo.com/farmostwood?is_all=1%5D&#34;&gt;木遥&lt;/a&gt; probably), the main idea of which talks about the power of the competitive market, for instance, the level of competitive market reflects that of the efficiency of local authorities to the governance of the corona-virus, and the other is that single sales channel, such as retail or wholesale/B2B, leads to the shortage shock among toilet paper and meat&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;. The former one may cause the interest from socialists and economists to study the efficiency of free/competitive market to the governance in a view of China’s evidence.&lt;/p&gt;
+&lt;div id=&#34;motivation&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;The latter one reminds me of the association to the systematical measure of risks, and also it could be akin to the classical Mean-Variance theory in the risk management. In other words, the shortage of toilet paper and/or meat in the supermarkets or groceries may result from the imbalance of the supply and demand in the retail, since the companies in these domain are solid on their retail sales channels and have no flows from other channels, such as B2, which currently has affluent supply with no demand due to the lock-down situation. The reason for ‘no-flow’ situation is the barriers in various channels.&lt;/p&gt;
+&lt;p&gt;In short, one company conducting the single business (sales channel) is the consequence of less competitive environment, and thus stays in a high-risk position systematically. So I am just curious whether the following statement holds or not:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The less diversification resulting from the less competitive market is in a higher systematic risk.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The front part of this statement is so fascinating to me. Besides of its connection to some orthodox Economic theories, it may let me re-think the classical case in the textbook: &lt;a href=&#34;https://www.wpr.org/wisconsins-milk-wars-1933&#34;&gt;pouring out milk&lt;/a&gt; during the depression – classically considered as action of the Price war. Now it happens again, not only milk, but also some vegetables&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;, which would witness more explanations&lt;/p&gt;
+&lt;p&gt;Back to the front part, even it is a causal-and-effect problem and must be complicated if imported DAGs, some observations may be useful. A recent work &lt;span class=&#34;citation&#34;&gt;(Ljubownikow and Ang 2020)&lt;/span&gt; gives a cool empirical result:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“… higher competitive intensity is associated with less related diversification and more unrelated diversification…”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The related/unrelated diversification also naturally describe the dependence level of the multiple businesses, which hints the association to the structure of the systematic measure of risk. Therefore, this new consideration on the systematic measure of risk would make a difference on the corporate risk management.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;model&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Model&lt;/h2&gt;
+&lt;p&gt;Yet, if the normative study of Economics is temporarily ignored, the second part of our statement would be easy to check in a simple framework referring to &lt;span class=&#34;citation&#34;&gt;Ljubownikow and Ang (2020)&lt;/span&gt; as well: the association among competition, diversification and systematic risk. The stylized facts of this work would be a good start to some intuition of further normative studies.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;references&#34; class=&#34;section level2 unnumbered&#34;&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references&#34;&gt;
+&lt;div id=&#34;ref-feinstein2017&#34;&gt;
+&lt;p&gt;Feinstein, Zachary, Birgit Rudloff, and Stefan Weber. 2017. “Measures of Systemic Risk.” &lt;em&gt;SIAM Journal on Financial Mathematics&lt;/em&gt; 8 (1): 672–708.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-ljubownikow2020&#34;&gt;
+&lt;p&gt;Ljubownikow, Grigorij, and Siah Hwee Ang. 2020. “Competition, Diversification and Performance.” &lt;em&gt;Journal of Business Research&lt;/em&gt; 112: 81–94.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;need citation?&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;need citation and pic?&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tensor product splines and functional principal components</title>

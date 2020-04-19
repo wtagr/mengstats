@@ -47,5 +47,19 @@ The related/unrelated diversification also naturally describe the dependence lev
 
 Yet, if the normative study of Economics is temporarily ignored, the second part of our statement would be easy to check in a simple framework referring to @ljubownikow2020 as well: the association among competition, diversification and systematic risk. The stylized facts of this work would be a good start to some intuition of further normative studies.
 
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(ggdag)
+theme_set(theme_dag())
+dagify(d~c,
+       p~d,
+       r~p,
+       r~d,
+       labels = c("c"="Competition",
+                  "d"="Diversification",
+                  "p"="Performance",
+                  "r"="Systematic Risk")) %>%
+  ggdag(use_labels = "label", text = F)
+```
+
 ## References
 

@@ -5,12 +5,28 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>mengstats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>mengstats</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Distribution-Free Pointwise Adjusted P-Values for Functional Hypotheses</title>
+      <link>/publication/2019-xu-env/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-env/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized reliability based on distances</title>
+      <link>/publication/2019-xu-dbicc/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-dbicc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Competition, diversification and systematic risk</title>
@@ -62,22 +78,6 @@
       <link>/publication/2019-xu-jspi/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2019-xu-jspi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized reliability based on distances</title>
-      <link>/publication/2019-xu-dbicc/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-xu-dbicc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distribution-Free Pointwise Adjusted P-Values for Functional Hypotheses</title>
-      <link>/publication/2019-xu-env/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-xu-env/</guid>
       <description></description>
     </item>
     

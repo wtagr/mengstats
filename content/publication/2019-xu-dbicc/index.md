@@ -7,13 +7,14 @@ authors:
 
 date: ""
 featured: false
+doi: "10.1111/biom.13287"
 
 projects: []
-publication: '*Biometrics*, invited revision'
+publication: '*Biometrics*, accepted'
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2019-12-15T00:00:00Z"
+publishDate: "2020-04-27T00:00:00Z"
 slides: 
 
 tags:

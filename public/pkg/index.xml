@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Multi-page HTML Document | mengstats</title>
+    <link>/pkg/</link>
+      <atom:link href="/pkg/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Multi-page HTML Document</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-2020</copyright>
+    <image>
+      <url>/img/logo.png</url>
+      <title>A Multi-page HTML Document</title>
+      <link>/pkg/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -5,12 +5,68 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Functional connectivity</title>
+      <link>/tags/functional-connectivity/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-connectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Data</title>
+      <link>/tags/functional-data/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical tests</title>
+      <link>/tags/graphical-tests/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/graphical-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pointwise p-values</title>
+      <link>/tags/pointwise-p-values/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/pointwise-p-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intraclass correlation coefficient</title>
+      <link>/tags/intraclass-correlation-coefficient/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/intraclass-correlation-coefficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spearman-Brown formula</title>
+      <link>/tags/spearman-brown-formula/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/spearman-brown-formula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test-retest reliability</title>
+      <link>/tags/test-retest-reliability/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/test-retest-reliability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Competitive Market</title>
@@ -53,66 +109,10 @@
     </item>
     
     <item>
-      <title>Functional Data</title>
-      <link>/tags/functional-data/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/functional-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Roughness Penalty</title>
       <link>/tags/roughness-penalty/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/roughness-penalty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional connectivity</title>
-      <link>/tags/functional-connectivity/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/functional-connectivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intraclass correlation coefficient</title>
-      <link>/tags/intraclass-correlation-coefficient/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/intraclass-correlation-coefficient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spearman-Brown formula</title>
-      <link>/tags/spearman-brown-formula/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/spearman-brown-formula/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test-retest reliability</title>
-      <link>/tags/test-retest-reliability/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/test-retest-reliability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graphical tests</title>
-      <link>/tags/graphical-tests/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/graphical-tests/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pointwise p-values</title>
-      <link>/tags/pointwise-p-values/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/pointwise-p-values/</guid>
       <description></description>
     </item>
     
@@ -169,14 +169,6 @@
       <link>/tags/local-linear/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/tags/local-linear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R package</title>
-      <link>/tags/r-package/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/r-package/</guid>
       <description></description>
     </item>
     

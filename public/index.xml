@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>mengstats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>mengstats</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Distribution-Free Pointwise Adjusted P-Values for Functional Hypotheses</title>
+      <link>/publication/2019-xu-env/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-env/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized reliability based on distances</title>
+      <link>/publication/2019-xu-dbicc/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-dbicc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Competition, diversification and systematic risk</title>
@@ -62,22 +78,6 @@
       <link>/publication/2019-xu-jspi/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2019-xu-jspi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized reliability based on distances</title>
-      <link>/publication/2019-xu-dbicc/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-xu-dbicc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distribution-Free Pointwise Adjusted P-Values for Functional Hypotheses</title>
-      <link>/publication/2019-xu-env/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-xu-env/</guid>
       <description></description>
     </item>
     
@@ -325,44 +325,17 @@
     </item>
     
     <item>
-      <title>dbICC</title>
-      <link>/project/dbicc/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/dbicc/</guid>
-      <description>&lt;p&gt;Distance-based Intraclass Correlation Coeffcient.&lt;/p&gt;
+      <title> </title>
+      <link>/pkg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pkg/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/wtagr/dbicc&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34;color:#33C0FF;&#34;&gt;dbICC&lt;/span&gt;&lt;/a&gt;: &lt;strong&gt;d&lt;/strong&gt;istance-&lt;strong&gt;b&lt;/strong&gt;ased &lt;strong&gt;I&lt;/strong&gt;ntraclass &lt;strong&gt;C&lt;/strong&gt;orrelation &lt;strong&gt;C&lt;/strong&gt;oefficient, a new reliability measurement for test-retest dataset&lt;/p&gt;&lt;/li&gt;
 
-&lt;pre&gt;&lt;code&gt;library(devtools)
-install_github(&amp;quot;wtagr/dbicc&amp;quot;,force = TRUE)
-library(dbicc)
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DVDtest</title>
-      <link>/project/dvdtest/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/dvdtest/</guid>
-      <description>&lt;p&gt;Difference between Varying Distributions Test.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/wtagr/pppvalue&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34;color:#33C0FF;&#34;&gt;pppvalue&lt;/span&gt;&lt;/a&gt;:  Distribution-free &lt;strong&gt;P&lt;/strong&gt;ointwise adjusted &lt;strong&gt;P&lt;/strong&gt;ermutation &lt;strong&gt;P&lt;/strong&gt;-&lt;strong&gt;value&lt;/strong&gt;s&lt;/p&gt;&lt;/li&gt;
 
-&lt;pre&gt;&lt;code&gt;require(devtools)
-install_github(&amp;quot;wtagr/DVDtest&amp;quot;, force = TRUE)
-library(DVDtest)
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>pppvalue</title>
-      <link>/project/pppvalue/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/pppvalue/</guid>
-      <description>&lt;p&gt;R package for Pointwise adjusted Permutation P-values (PPPvalue). The current version is made available for testing.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;require(devtools)
-install_github(&amp;quot;wtagr/pppvalue&amp;quot;, force = TRUE)
-library(pppvalue)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/wtagr/DVDtest&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34;color:#33C0FF;&#34;&gt;DVDtest&lt;/span&gt;&lt;/a&gt;: &lt;strong&gt;D&lt;/strong&gt;ifference between &lt;strong&gt;V&lt;/strong&gt;arying &lt;strong&gt;D&lt;/strong&gt;istributions &lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

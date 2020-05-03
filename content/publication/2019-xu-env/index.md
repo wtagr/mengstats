@@ -12,7 +12,7 @@ projects: []
 publication: '*IWFOS2020*, accepted'
 publication_short: ""
 publication_types:
-- "3"
+- "1"
 publishDate: "2020-05-01T00:00:00Z"
 slides: 
 

@@ -13,7 +13,7 @@ projects: []
 publication: '*Biometrics*, accepted'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2020-04-27T00:00:00Z"
 slides: 
 

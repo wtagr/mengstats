@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | mengstats</title>
+    <title>1 | meng</title>
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>1</title>
@@ -13,31 +13,11 @@
     </image>
     
     <item>
-      <title>DVDtest</title>
-      <link>/project/dvdtest/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/dvdtest/</guid>
-      <description>&lt;p&gt;Difference between Varying Distributions Test.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;require(devtools)
-install_github(&amp;quot;wtagr/DVDtest&amp;quot;, force = TRUE)
-library(DVDtest)
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>pppvalue</title>
-      <link>/project/pppvalue/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/pppvalue/</guid>
-      <description>&lt;p&gt;R package for Pointwise adjusted Permutation P-values (PPPvalue). The current version is made available for testing.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;require(devtools)
-install_github(&amp;quot;wtagr/pppvalue&amp;quot;, force = TRUE)
-library(pppvalue)
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <title>Distribution-Free Pointwise Adjusted P-Values for Functional Hypotheses</title>
+      <link>/publication/2019-xu-env/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-xu-env/</guid>
+      <description></description>
     </item>
     
   </channel>
